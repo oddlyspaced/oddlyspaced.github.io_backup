@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -54,6 +54,10 @@ topics:
   - name: Android App Development
     web_url: https://developer.android.com/
     image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_android.png
+
+  - name: Flutter
+    web_url: https://flutter.dev/
+    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_flutter.png
   
   - name: Linux
     web_url: https://linux.org
