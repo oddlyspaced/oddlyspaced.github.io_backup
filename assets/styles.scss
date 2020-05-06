@@ -1,8 +1,12 @@
 ---
 ---
 @import url('https://unpkg.com/primer/build/build.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 @import 'highlight-syntax';
 
+body {
+  font-family: 'Roboto Mono', monospace;
+}
 
 // If a user adds a custom font, this component will stop it from bleeding into GitHub components:
 .github-component {

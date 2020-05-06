@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-    - Test Project
+    #- Test Project
 
 # social_media:
   # behance: your_username
@@ -35,7 +35,7 @@ projects:
   hackerrank: srivastavahardik
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: srivastavahardik
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -59,9 +59,9 @@ topics:
     web_url: https://linux.org
     image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_linux.png
 
-  - name: C
+  - name: C Programming
     web_url: https://en.wikipedia.org/wiki/C_(programming_language)
-    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_C.png
+    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_c.png
 
   - name: Python
     web_url: https://www.python.org/
