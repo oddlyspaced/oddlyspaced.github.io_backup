@@ -47,12 +47,22 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Kotlin
+    web_url: https://kotlinlang.org/
+    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_kotlin.png
 
-  - name: Web design
+  - name: Android App Development
+    web_url: https://developer.android.com/
+    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_android.png
+  
+  - name: Linux
+    web_url: https://linux.org
+    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_linux.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: C
+    web_url: https://en.wikipedia.org/wiki/C_(programming_language)
+    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_C.png
+
+  - name: Python
+    web_url: https://www.python.org/
+    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_python.png
