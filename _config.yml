@@ -40,3 +40,11 @@ topics:
   - name: Python
     web_url: https://www.python.org/
     image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_python.png
+
+  - name: R
+    web_url: https://www.r-project.org/
+    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_R.png
+
+  - name: TensorFlow Lite
+    web_url: https://www.tensorflow.org/lite
+    image_url: https://raw.githubusercontent.com/oddlyspaced/oddlyspaced.github.io/master/assets/logo_tensorflow_lite.png
